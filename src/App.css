@@ -1,4 +1,5 @@
 .App {
+    margin-top: 15px;
     text-align: center;
 }
 
@@ -18,9 +19,9 @@
 }
 
 .app__input {
-    flex: 1;
+    flex: 0.9;
 }
 
 .app__IconButton {
-    flex: 0;
+    flex: 0.1;
 }
